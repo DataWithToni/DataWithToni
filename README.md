@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataWithToni
 - 👀 I’m a self taught Data Analyst 
-- 🌱 I currently use SQL, Excel and Tablaeu for Data Analysis. I have minimal experience with Power BI and will be studying Python by 2025.
+- 🌱 I currently use SQL, Excel and Tablaeu for Data Analysis.
 - 📫 Please reach out on Linkedin if you have any quesitons or opportunities. 
 - ⚡ Fun fact: I used to work in Customer Success for a Market Research Company; this is what sparked my interest in data analytics! 
 
